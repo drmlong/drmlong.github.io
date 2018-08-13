@@ -17,6 +17,6 @@ navbar:
       href: https://twitter.com/PhDLing
 output:
   html_document:
-    theme: cosmo
+    theme: flatly
     highlight: textmate
     css: styles.css
