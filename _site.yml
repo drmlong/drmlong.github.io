@@ -3,8 +3,10 @@ navbar:
   title: "My Website"
   left:
     - text: "Home"
+      icon: fa-home
       href: index.html
     - text: "Research"
+      icon: fa-copy
       href: research.html
 output:
   html_document:
