@@ -8,6 +8,6 @@ navbar:
       href: research.html
 output:
   html_document:
-    theme: sandstone
+    theme: cosmo
     highlight: textmate
     css: styles.css
