@@ -2,6 +2,10 @@
 title: "About"
 ---
 
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="http://drmlong.github.io/grad.jpg" style="width:20%; border:5px solid; margin-right: 20px" align="left">
+
 I'm a postdoctoral researcher working on the project  **Linguistic and cognitive factors in effective referential communication** (funded by the Research Council of Norway) with [Paula Rubio-Fernandez](https://www.hf.uio.no/ifikk/english/people/aca/philosophy/temporary/paulorf/ "Paula's page") (PI).  
 
 My position is based in the **School of Philosophy, Psychology and Language Sciences (PPLS) at the University of Edinburgh** where I work in collaboration with [Hannah Rohde](http://www.lel.ed.ac.uk/~hrohde// "Hannah's page"). The aim of the project is to investigate younger and older adults' choice of referring expressions in interactive contexts and how that relates to memory capacity, executive control, and Theory of Mind. 
