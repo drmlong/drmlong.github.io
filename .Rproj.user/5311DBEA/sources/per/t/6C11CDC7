@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1534101145910.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "768231492",
+    "id" : "6C11CDC7",
+    "lastKnownWriteTime" : 1534101248,
+    "last_content_update" : 1534101248326,
+    "path" : "~/Documents/drmlong.github.io.git/research.Rmd",
+    "project_path" : "research.Rmd",
+    "properties" : {
+        "cursorPosition" : "3,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1",
+        "working_dir" : "default"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

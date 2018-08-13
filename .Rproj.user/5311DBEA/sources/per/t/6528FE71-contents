@@ -1,0 +1,13 @@
+name: "my-website"
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: research.html
+output:
+  html_document:
+    theme: sandstone
+    highlight: textmate
+    css: styles.css
