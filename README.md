@@ -1,113 +1,27 @@
-# <!DOCTYPE html>
-<html>
-	<head>
-		<title>Madeleine Long</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-	</head>
-	<body class="is-preload">
+# What is Academicons?
 
-		<!-- Wrapper -->
-			<div id="wrapper">
+Academicons is a specialist icon font for academics. It contains icons for websites and organisations related to academia that are often missing from mainstream font packages. It can be used by itself, but its primary purpose is to be used as a supplementary package alongside a larger icon set. Go [here](http://jpswalsh.github.io/academicons) to view the full icon set along with instructions for their use.
 
-				<!-- Header -->
-					<header id="header" class="alt">
-						<h1>Madeleine Long</h1>
-						<p>Postdoctoral researcher at the University of Edinburgh</p>
-						<ul class="icons">
-						    <li><a href="mailto:mlong@ed.ac.uk" class="icon fa-envelope alt"><span class="label">Email</span></a></li>
-						    <li><a href="https://github.com/drmlong" class="icon fa-github alt"><span class="label">GitHub</span></a></li>
-						    <li><a href="https://www.research.ed.ac.uk/portal/en/persons/madeleine-long(eb8d37dd-176a-4e32-b04d-e4b1e6d7680d).html" class="icon fa-university alt"><span class="label">Uni</span></a></li>
-								<li><a href="https://twitter.com/PhDLing" class="icon fa-twitter alt"><span class="label">Twitter</span></a></li>
-					</header>
-				<!-- Nav -->
-					<nav id="nav">
-						<ul>
-							<li><a href="#intro" class="active">Home</a></li>
-							<li><a href="#first">Research</a></li>
-							<li><a href="#second">CV</a></li>
-					</nav>
-				<!-- Main -->
-					<div id="main">
+# Requesting new icons
 
-						<!-- Introduction -->
-							<section id="intro" class="main">
-								<div class="spotlight">
-									<div class="content">
-										<header class="major">
-											<h2>About</h2>
-										</header>
-										<p>I'm a postdoctoral researcher working on the project <b>Linguistic and cognitive factors in effective referential communication</b> (funded by the Research Council of Norway) with <a href="https://www.hf.uio.no/ifikk/english/people/aca/philosophy/temporary/paulorf/" style="color:purple">Paula Rubio-Fernandez</a> (PI). My position is based in the School of Philosophy, Psychology and Language Sciences (PPLS) at the University of Edinburgh where I work in collaboration with <a href=http://www.lel.ed.ac.uk/~hrohde/ style="color:purple">Hannah Rohde</a>. The aim of the project is to investigate younger and older adults' choice of referring expressions in interactive contexts and how that relates to memory capacity, executive control, and Theory of Mind.</p>
-										<ul class="actions">
-										</ul>
-									</div>
-									<span class="image"><img src="http://drmlong.github.io/image.jpeg" alt="" /></span>
-								</div>
-							</section>
+New icons can be requested by creating an issue [here](https://github.com/jpswalsh/academicons/issues). Before submitting a request, please check that the following conditions are satisfied:
 
-						<!-- First Section -->
-							<section id="first" class="main">
-							  	<div class="spotlight">
-									  <div class="content">
-							    	  <header class="major">
-								      	<h2>Research interests</h2>
-							       	</header>
-									  <p>Over the course of development, we acquire the ability to conceptualize others’ thoughts and feelings as distinct from our own. This is part of what allows us to engage in meaningful social interactions where our understanding of another’s perspective directly shapes our use of language. I am interested in how we are able to efficiently and effortlessly integrate contextual information, account for differences in perspective, and tailor our speech to meet the needs of our communicative partner in real-time. What are the cognitive mechanisms regulating these computational processes and how do those mechanisms correspond to age-related differences in the way in which we refer to the world around us? Moreover, which factors determine why certain individuals maintain communicative efficacy throughout adulthood while others are more prone to linguistic decline, leading to critical communicative errors? Through the use of experimental data, I attempt to answer these questions by analyzing the relationship between pragmatic abilities and cognitive functions across the lifespan.</p> 
-								<footer class="major">
-								</footer>
-							</section>
+  * The organisation in question is already using a logo/icon of appropriate dimensions (roughly 1 × 1). If that doesn't exist, then there's really not much that can be done, and the request will have to be ignored until such time that a logo/icon can be provided.
 
-						<!-- Get Started -->
-							<section id="cta" class="main">
-								<header class="major">
-									<h2>Recent work</h2>
-						<div class="row">
-							<article class="col-4 col-12-xsmall work-item">
-								<a href="https://www.sciencedirect.com/science/article/pii/S001002771730241X?via%3Dihub" class="image fit thumb"><img src="images/cognition.jpg" alt="" /></a>
-								<h3>Cognition 2018: </h3>
-								<p>Individual Differences in Switching and Inhibition Predict Perspective-Taking Across the Lifespan. (Coverage: BBC, The Scotsman)</p>
-							</article>
-							    <article class="col-4 col-12-xsmall work-item">
-							  	<a href="https://osf.io/yay9r/" class="image fit thumb"><img src="images/cuny.jpg" alt="" /></a>
-							  	<h3>CUNY 2017: </h3>
-								  <p>Poster presentation.</p>
-								</article>
-						      <article class="col-4 col-12-xsmall work-item">
-								  <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153485" class="image fit thumb"><img src="images/plosone.jpg" alt="" /></a>
-								  <h3>Plos One 2016: </h3>
-								  <p>Novelty, Challenge, and Practice: The Impact of Intensive Language Learning on Attentional Functions.</p>
-							</article></p>
-						</div>
-						<ul class="actions">
-							<li><a href="#" class="button">Full Portfolio</a></li>
-						</ul>
-					</section>
-					</div>
+  * An icon of appropriate resolution can be provided or linked to. Ideally, the provided file will be a vector file (*e.g.* SVG, EPS, AI) or a PDF with the vector file embedded. These files are all very easy to work with, and result in the most faithful reproductions of the icon. Altenatively, high resolution raster images (*e.g.* JPEG, PNG, GIF) can work, but only if the resolution is high enough that the underlying shapes can be reproduced. Icons made from raster images take much longer to prepare, and require hand drawing each component and figuring out the exact typeface used for any letters. This process can be rather tedious, and I will only do this if there is significant demand for the icon. Favicon files can be useful in conjunction with larger logos that have non-ideal aspect ratios—where they can indicate which part of the logo to strip down to—but they are pretty much useless by themselves. The only time I have made an icon from a favicon was for arXiv, and that was only because: (i) It was heavily requested, and (ii) I was able to get feedback on the new icon from Paul Ginsparg, who made the original icon. You can still submit the request, but it will likely be ignored until someone else comes along and provides the file we need.
 
-				<!-- Footer -->
-					<footer id="footer">
-							<h2>Get in touch</h2>
-							<dl class="alt">
-								<dt>Address</dt>
-								<dd>Dugald Stewart Building &bull; 3 Charles St Ln &bull; Edinburgh, Scotland EH8 9AD &bull; </dd>
-								<dt>Email</dt>
-								<dd><a href="#">mlong@ed.ac.uk</a></dd>
-							</dl>
-						</section>
-					</footer>
+  * The icon can be reduced to monochrome. This is one of the basic requirements of a versatile icon, but it is often overlooked when icons are made by people who are not professional designers. Academia is full of unprofessional designers, and it is sometimes the case that a logo relies entirely on the use of different colours. In certain cases we can be creative (see the dblp logo), but more often than not it will be impossible to create a monochrome version of the icon. Again, feel free to make the request, but it will probably be ignored if an alternate logo cannot be found.
 
-			</div>
+# License
 
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/jquery.scrolly.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
+- The Academicons font is licensed under the SIL OFL 1.1:
+  - [http://scripts.sil.org/OFL](http://scripts.sil.org/OFL)
+- Academicons CSS, LESS, and SASS files are licensed under the MIT License:
+  - [http://opensource.org/licenses/mit-license.html](http://opensource.org/licenses/mit-license.html)
+- The Academicons documentation is licensed under the CC BY 3.0 License:
+  - [http://creativecommons.org/licenses/by/3.0/](http://creativecommons.org/licenses/by/3.0/)
 
-	</body>
-</html>
+# Author
+
+- GitHub: [https://github.com/jpswalsh](https://github.com/jpswalsh)
+- Web: [http://jpswalsh.com](http://jpswalsh.com)
