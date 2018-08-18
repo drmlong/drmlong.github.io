@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #935d8c;
+		background-color: #eaf0f0;
 		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #eaf0f0 15%, #eaf0f0 85%);
 		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #eaf0f0 15%, #eaf0f0 85%);
 		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #eaf0f0 15%, #eaf0f0 85%);
@@ -2216,7 +2216,8 @@ input, select, textarea {
 		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		border-bottom: none;
+		border-bottom-color: black;
+		border: 1px solid black;
 		position: relative;
 	}
 
@@ -2234,7 +2235,7 @@ input, select, textarea {
 		}
 
 		.icon.major {
-			border: solid 1px;
+			border: solid black 1px;
 			display: inline-block;
 			border-radius: 100%;
 			padding: 0.65em;
@@ -2249,13 +2250,12 @@ input, select, textarea {
 				height: 2.25em;
 				line-height: 2.2em;
 				border-radius: 100%;
-				border: solid 1px;
 				text-align: center;
 			}
 
 		.icon.alt {
 			display: inline-block;
-			border: solid 1px;
+			border: 1px solid black;
 			border-radius: 100%;
 		}
 
@@ -2327,7 +2327,7 @@ input, select, textarea {
 
 	.icon.alt {
 		border-color: rgba(255, 255, 255, 0.35);
-		color: #ffffff;
+		color: #0f0505;
 	}
 
 		.icon.alt:hover {
