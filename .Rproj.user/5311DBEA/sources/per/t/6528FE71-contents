@@ -1,13 +1,22 @@
 name: "my-website"
+output_dir: "."
 navbar:
   title: "My Website"
+  type: inverse
   left:
     - text: "Home"
+      icon: fa-home
       href: index.html
     - text: "Research"
+      icon: fa-copy
       href: research.html
+  right:
+    - icon: fa-github
+      href: https://github.com/drmlong
+    - icon: fa-twitter
+      href: https://twitter.com/PhDLing
 output:
   html_document:
-    theme: sandstone
+    theme: flatly
     highlight: textmate
     css: styles.css
