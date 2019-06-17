@@ -2977,7 +2977,7 @@ input, select, textarea {
 			}
 
 		.spotlight .image {
-			display: inline-block;
+			display: block;
 			margin-left: 4em;
 			padding: 0.65em;
 			border-radius: 100%;
@@ -2987,7 +2987,7 @@ input, select, textarea {
 			.spotlight .image img {
 				display: block;
 				border-radius: 100%;
-				width: 16em;
+				width: 12em;
 			}
 
 		@media screen and (max-width: 980px) {
