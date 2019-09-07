@@ -2987,7 +2987,7 @@ input, select, textarea {
 			.spotlight .image img {
 				display: block;
 				border-radius: 100%;
-				width: 14em;
+				width: 12em;
 			}
 
 		@media screen and (max-width: 980px) {
@@ -3648,7 +3648,7 @@ input, select, textarea {
 
 					#main > .main > .image.main:first-child {
 						margin: -2.5em 0 1.5em -1em;
-						width: calc(100% + 2em);
+						width: calc(50% + 2em);
 						border-radius: 0;
 					}
 
